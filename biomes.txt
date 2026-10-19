@@ -1,0 +1,7 @@
+7195,3725,mushroom_fields
+15011,-9207,ice_spikes
+-14698,9414,desert
+-19256,-6252,snowy_taiga
+8413,14045,snowy_taiga
+5889,-15219,forest
+-17757,14840,plains
